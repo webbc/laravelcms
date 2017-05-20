@@ -1,0 +1,25 @@
+.span-promt{
+    color: #222222;
+    line-height: 34px;
+}
+.span-danger{
+    color: #CC0000;
+    line-height: 34px;
+}
+
+.bottom{
+    position:fixed;
+    bottom:0;
+    left:0;
+    right:0;
+    background:#ccc;
+    text-align:center;
+    padding:10px;
+    z-index: 1000;
+}
+
+.bottom button{
+    margin:0px 5px;
+}
+
+
